@@ -1,6 +1,6 @@
 # customer_segments
 
-Udacity MLND - Project 3 - Customer SegmentsBoston Housing Price Prediction
+Udacity MLND - Project 3 - Customer Segments
 
 This repository is to fulfill the MLND requirements for project 3.
 
