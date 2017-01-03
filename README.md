@@ -1,5 +1,5 @@
-# Udacity-Projects
-Warehouse for Udacity Projects
+# Udacity- Machine Learning Nanodegree Projects
+Warehouse for Udacity Machine Learning Nanodegree Projects
 
 Project 0: titanic_survival_exploration - employed simple if/then conditional statements to predict titanic survival
 skills/programs: Python, Jupyer Notebook, Numpy, Pandas, Matplotlib
