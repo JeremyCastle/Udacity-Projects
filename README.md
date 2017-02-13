@@ -11,4 +11,7 @@ Project 2: student_intervention - predict whether a student will passed or not w
 skills/programs: Python, Jupyter Notebooks, Numpy, Pandas, Sklearn, GridSearch, KNN, Random Forest, Naive Bayes
 
 Project 3:  customer_segmentation - customer segmentation based on their annual spending
-skills/programe: Python, Jupyter Notebooks, Numpy, Pandas, Matplotlib, Sklearn, Decision Tree Regression, Outlier Detection, Principal Component Analysis (PCA), Gaussian Mixture Model and K-means
+skills/programs: Python, Jupyter Notebooks, Numpy, Pandas, Matplotlib, Sklearn, Decision Tree Regression, Outlier Detection, Principal Component Analysis (PCA), Gaussian Mixture Model and K-means
+
+Project 4:  smart_cab - create a self-driving car based on reinforcement learning
+skills/programs:  Python, Jupyter Notebooks, Numpy, Pandas
